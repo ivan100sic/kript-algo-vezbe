@@ -20,6 +20,12 @@ execs += afina-dec
 objects += afina-stosic-can.o
 execs += afina-stosic-can
 
+objects += vizener-enc.o
+execs += vizener-enc
+
+objects += vizener-trigram-etc.o
+execs += vizener-trigram-etc
+
 common.o: makefile
 	$(CC) -c common.cpp -o common.o
 

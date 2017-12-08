@@ -37,3 +37,13 @@ string afina_sifra(string s, int a, int b);
 	Inverz broja po modulu 26 ili -1 ako ne postoji.
 */
 int inv26(int a);
+
+/*
+	Primenjuje Vizenerovu sifru. Kljuc mora biti validan!
+*/
+string vizener(string s, string kljuc);
+
+/*
+	Brise sve sto nije slovo iz stringa s
+*/
+string strip(string s);
