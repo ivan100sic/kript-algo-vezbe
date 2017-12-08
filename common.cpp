@@ -72,3 +72,23 @@ int inv26(int a) {
 	}
 	return -1;
 }
+
+string vizener(string s, string kljuc) {
+	size_t k = kljuc.size();
+	int i = 0;
+	for (char& x : s) {
+		x = primeni(x, (kod(x) + kod(kljuc[i % k])) % 26);
+		i++;
+	}
+	return s;
+}
+
+string strip(string s) {
+	string p;
+	for (char x : s) {
+		if (kod(x) >= 0) {
+			p += x;
+		}
+	}
+	return p;
+}
