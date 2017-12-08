@@ -26,6 +26,9 @@ execs += vizener-enc
 objects += vizener-trigram-etc.o
 execs += vizener-trigram-etc
 
+objects += vizener-coinc-etc.o
+execs += vizener-coinc-etc
+
 common.o: makefile
 	$(CC) -c common.cpp -o common.o
 

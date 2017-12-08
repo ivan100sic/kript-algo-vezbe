@@ -47,3 +47,15 @@ string vizener(string s, string kljuc);
 	Brise sve sto nije slovo iz stringa s
 */
 string strip(string s);
+
+/*
+	Trazi indeks koincidencije za dati string s.
+	Preskace sve sto nisu slova.
+*/
+double coincidence_index(string s);
+
+/*
+	Trazi prosecan indeks koincidencije za sve podstringove koji
+	nastaju razvezivanjem datog stringa na k delova
+*/
+double coincidence_index_avg(string s, int k);

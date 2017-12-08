@@ -92,3 +92,36 @@ string strip(string s) {
 	}
 	return p;
 }
+
+double coincidence_index(string s) {
+	// samo slova
+	vector<int> a(26, 0);
+	int sum = 0;
+
+	for (char x : s) {
+		int y = kod(x);
+		a[y]++;
+		sum++;
+	}
+
+	double tot = 0.0;
+
+	for (int i=0; i<26; i++) {
+		tot += (double)a[i] * a[i];
+	}
+
+	return tot / sum / sum;
+}
+
+double coincidence_index_avg(string s, int k) {
+	vector<string> a(k);
+	for (size_t i=0; i<s.size(); i++) {
+		a[i % k] += s[i];
+	}
+
+	double avg = 0;
+	for (string& p : a) {
+		avg += coincidence_index(p);
+	}
+	return avg / k;
+}
