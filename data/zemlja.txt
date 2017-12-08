@@ -1,0 +1,314 @@
+	
+[sakrij]
+
+Takmiči se u pisanju članaka o znamenitim ženama od 1. do 30. novembra!
+
+Takmiči se u pisanju članaka o Srpskoj od 13. novembra do 13. decembra!
+Ovaj članak je sjajan. Klikni ovdje za više informacija.
+Zemlja
+Iz Vikipedije, slobodne enciklopedije
+Za druge upotrebe, pogledajte Zemlja (višeznačna odrednica).
+	Zemlja Earth symbol.svg 	
+Pogled na Zemlju sa američke svemirske letelice Apolo 17
+Orbitalne karakteristike
+Afel 	152.097.701 km
+Perihel 	147.098.074 km
+Orbita 	924.375.700 km
+Površina orbite 	7,029 754 4 × 1016 km²
+Ekscentricitet 	0,016 710 219
+Fizičke karakteristike
+Elipticitet 	0,003 352 9
+Radijus 	6.372,797 km
+Ekvatorijalni radijus 	6.378,137 km
+Polarni radijus 	6.356,752 km
+Površina 	510.065.600 km²
+Površina kopna 	148.939.100 km2 (29,2 %)
+Vodena površina 	361.126.400 km2 (70,8 %)
+Zapremina 	1,083 207 3×1012 km³
+Masa 	5,9736×1024 kg
+Gustina 	5.515,3 kg/m³
+Karakteristike atmosfere
+Pritisak na površini 	101,3 kPa (MSL)
+Atmosferski sastav 	78,08% N2
+20,95% O2
+0,93% Argon
+0,038% Ugljen-dioksid
+Tragovi vodene pare
+(zavisi od klime)
+
+Zemlja je jedna od osam planeta u Sunčevom sistemu. Treća je planeta po udaljenosti od Sunca i najveća terestrička planeta u Sunčevom sistemu. Planeta Zemlja ima jedan prirodni satelit, Mesec. Za sada je jedina poznata planeta na kojoj ima života.
+
+U geološkim naukama preovladava mišljenje da je Zemlja stara oko 4,6 milijardi godina što je utvrđeno određivanjem vremena poluraspada urana i torijuma. Vreme poluraspada U238 je 4,51 × 109 godina, a Th232 je 1,39 × 1010godina.[1]
+
+Zemlja takođe ima magnetsko polje koje je zajedno sa atmosferom, štiti od radijacije, štetne po živa bića koja naseljavaju planetu. Atmosfera takođe služi kao štit za odbijanje manjih meteoroida — prolazeći kroz atmosferu, oni sagore pre nego što stignu do Zemljine površine.
+
+Zemljin jedini poznati satelit, Mesec, počeo je da kruži oko Zemlje pre 4,53 milijardi godina. Danas, Zemlja se okrene oko Sunca jednom na svakih 366,26 krugova koje napravi oko svoje ose (što je jednako cifri od 365,26 solarnih dana). Zemljina osa se nalazi pod nagibom od arcsin 0,397776995 ≈ 23,439 281 061° = 23° 26′ 21,41182″ (trenutno se smanjuje konstantnom ugaonom brzinom od ≈ 0,01305˙° = 47″ po veku).[2][3][4][5][6][7][8][9] Jedna od najvažnijih posledica ovog nagiba je menjanje godišnjih doba na Zemlji.
+
+Atmosferski uslovi su se značajno promenili od kako je nastao život, što stvara ekološku ravnotežu koja modifikuje uslove na površini Zemlje. Oko 71 % Zemljine površine je pokriveno vodom. Zemlja je jedina planeta Sunčevog sistema gde voda može da opstane u tečnom stanju. Ostalih 29 % površine se sastoji iz kontinenata i ostrva. Zemljina spoljna površina je izdeljena na nekoliko segmenata, litosfernih ploča koje postepeno migriraju tokom perioda od mnogo miliona godina.
+
+Zemlja takođe reaguje na spoljni svet u određenom stepenu. Njen relativno veliki satelit, Mesec, utiče na plime i oseke, stabilizuje promenu nagiba Zemljine ose, i takođe postepeno menja dužinu rotacionog perioda Zemlje. Kiša kometa u ranom periodu nakon nastanka Zemlje je igrala veliku ulogu u nastanku okeana. Kasnije, sudari sa asteroidima su prouzrokovali znatne promene na površini Zemlje. Veruje se da su periodične promene u orbiti planete dovele do pojave ledenih doba tokom kojih je znatan deo Zemljine površine bio pokriven ledom.
+
+Sadržaj
+
+    1 Istorija
+    2 Struktura i sastav Zemlje
+        2.1 Oblik
+        2.2 Hemijski sastav Zemlje
+        2.3 Atmosfera
+            2.3.1 Klima
+        2.4 Biosfera
+        2.5 Hidrosfera
+        2.6 Unutrašnja građa Zemlje
+            2.6.1 Kora
+                2.6.1.1 Hemijski sastav zemljine kore
+                2.6.1.2 Petrološki sastav zemljine kore
+            2.6.2 Zemljin omotač (mantl)
+            2.6.3 Jezgro
+        2.7 Litosferne ploče
+    3 Zemljina površina
+    4 Orbita i rotacija
+    5 Zemljino magnetsko polje
+    6 Gravitacija
+    7 Prirodni resursi i korišćenje zemljišta
+    8 Prirodne katastrofe
+    9 Reference
+    10 Literatura
+    11 Spoljašnje veze
+
+Istorija
+Vulkanske erupcije su bile česta pojava u ranoj Zemljinoj istoriji.
+
+Naučnici su uspeli da rekonstruišu detaljne informacije o prošlosti planete. Zemlja i druge planete Sunčevog sistema su se formirale pre 4,6 milijardi godina [10][11][12][13] od solarne magline, mase prašine i gasa oblika diska koji su zaostali nakon formiranja Sunca. Zemlja je prvobitno bila rastopljena masa, da bi se potom formirao spoljni omotač planete Zemlje (Zemljina kora) usled hlađenja. Istovremeno sa formiranjem kore počela se akumulirati voda u atmosferi. Mesec je nastao ubrzo nakon toga, verovatno kao rezultat sudara objekta veličine Marsa sa masom veličine 10 % mase Zemlje [14], poznat kao Teja.[15] Nešto od mase se spojilo sa masom Zemlje a deo je izbačen u svemir, ali dovoljno da bi se formirao Mesec.
+
+Gasne i vulkanske aktivnosti su proizvele prvobitnu atmosferu. Kondenzovanjem vodene pare, uz led koji su donele komete, nastali su okeani[16]. Veruje se da je visokoenergetska hemijska reakcija proizvela samoudvajajuće molekule pre oko 4 milijarde godina, i pola milijarde godina kasnije, nastali su prvi oblici života na Zemlji[17]
+
+Razvoj fotosinteze je omogućio životnim formama da direktno koriste sunčevu energiju. Kiseonik koji je nastao u tom procesu i koji se akumulirao u atmosferi pretvorio se u ozonski omotač u gornjoj atmosferi. Inkorporacija manjih ćelija u veće doprinela je razvoju kompleksnih ćelija koje se zovu eukariote. Ozonski omotač je apsorbovao štetne ultravioletne zrake, što je omogućilo dalji razvoj živih organizama na Zemlji.[18]
+Pangea, najmlađi superkontinent, postojao je od pre 300 do pre 180 miliona godina. Na karti su naznačene konture današnjih kontinenata.
+
+Zemljina površina je stalno menjala oblik tokom stotina miliona godina, kontinenti su se formirali i nestajali, migrirali i povremeno se spajali i formirali superkontinent. Pre oko 750 miliona godina, najstariji poznati superkontinent, Rodina, počeo je da se deli na kontinente, koji su se opet pre oko 600—540 miliona godina prekombinovani spojili u drugi, superkontinent Panotiju, da bi konačno formirali Pangeu, koja se raspala pre oko 180 miliona godina.[19]
+
+Počev od šezdesetih godina 20. veka, pretpostavlja se da je postojala određena lednička aktivnost između 750 i 580 miliona godina, što je dovelo do prekrivanja Zemljine površine slojem leda. Ova hipoteza se nazvala „Snežna Zemlja“ i veoma je važna jer je prethodila Kambrijumskoj eksploziji koja je uslovila nastanak višećelijskih organizama.[20]
+
+Nakon Kambrijumske eksplozije (naglog procvata života tokom kambrijuma), bilo je pet masovnih uništenja.[21] Poslednje uništenje se desilo pre 65 miliona godina, kada je meteorit udario o Zemlju i time izazvao nestanak dinosaurusa i drugih velikih reptila, iako su neke male životinje, kao na primer, sisari, preživele. Tokom proteklih 65 miliona godina, sisari su se razmnožili i nastale su mnogobrojne vrste, a pre nekoliko miliona godina, afrički majmun je uspeo da stane na dve noge[22] Ovo je omogućilo korišćenje oruđa i pospešilo je razvoj komunikacije koja je uticala na stimulaciju razvoja većeg mozga. Razvitak poljoprivrede a kasnije i civilizacije, omogućio je ljudima da utiču na Zemlju u veoma kratkom periodu na način na koji nije uticala ni jedan drugi oblik života[23], utičući i na samu prirodu i na broj i količinu drugih životnih formi.
+
+    „Bilo je vremena kada je vaseljena bila puna nebesnih tela, ali naše zemlje u njoj nije bilo. I bilo je vremena kada se naša zemlja stvorila, ali na njoj ne beše ni bilja ni životinja. Pa nastaše vremena, kada je na zemlji bilo raznoga bilja i raznih životinja, ali nikakvih ljudi nije bilo... Zemlja naša ima dakle vrlo dugotrajnu istoriju, koja veličinom i raznolikošću svojom daleko prevazilazi istoriju celoga čoveštva i sviju pojedinih naroda.”
+    — Jovan Žujović
+
+Struktura i sastav Zemlje
+Poređenje planeta po veličini (levo na desno): Merkur, Venera, Zemlja i Mars
+
+Zemlja je peta planeta po veličini u Sunčevom sistemu. Za razliku od nekih drugih planeta, Zemlja nije gasoviti džin, kakva je na primer planeta Jupiter, već je terestrička planeta, odnosno planeta koja ima čvrstu površinu. Termin terestrički potiče od grčke reči terra što znači zemlja. U sunčevom sistemu ako Zemlju uporedimo sa ostale tri terestričke planete, Merkurom, Venerom i Marsom, ona je najveća, sa najvećom gustinom, najvećom silom gravitacije i najjačim magnetskim poljem. Generalno, Zemlja se sastoji od atmosfere, biosfere, hidrosfere i njene unutrašnje građe ispod površine.
+Oblik
+
+Oblik Zemlje je veoma sličan obliku troosnog rotacionog elipsoida. Ipak ovo geometrijsko telo, koje se do skora koristilo pri interpretaciji ne odgovara u potpunosti obliku Zemlje, i njega je u naučnim krugovima zamenio novi približniji oblik - geoid. Masa Zemlje je približno 5,98 × 1024 kg.[24]
+
+Rotacija Zemlje stvara ekvatorijalna ispupčenja, tako da je ekvatorijalni promer za 43 km veći od promera između polova.[25] Najveće lokalne devijacije na stenovitoj Zemljinoj površini su Mont Everest (8.848 metara nadmorske visine), i Marijanski rov (10.911 ispod površine mora). Stoga, u poređenju sa savršenim elipsoidom, Zemlja ima toleranciju od 1:584 ili 0,17 %, što je za 0,22 % manje od tolerancije dozvoljene u jednoj lopti za bilijar[26] Zbog ispupčenja, najudaljenija tačka od centra Zemlje je u stvari planina Čimborazo u Ekvadoru[traži se izvor]
+Hemijski sastav Zemlje
+
+Zemlja, po hemijskom sastavu, je najvećim delom sačinjena od gvožđa (32,1 %), kiseonika (30,1 %), silicijuma (15,1 %), magnezijuma (13,9 %), sumpora (2,9 %), nikla (1,8 %), kalcijuma (1,5 %) i aluminijuma (1,4 %); sa preostalih 1,2 % koji čine količine ostalih elemenata u tragovima. Pre segragacije masa, veruje se da su koru primarno činili gvožđe (88,8 %), sa manjim količinama nikla (5,8 %), sumpora (4,5 %), a manje od 1 % činili su ostali hemijski elementi koji su se javljali u tragovima.[24]
+Atmosfera
+Dijagram zavisnosti pritiska i temperature od nadmorske visine sa prikazom slojeva atmosfere
+Glavni članak: Zemljina atmosfera
+
+Zemljina atmosfera ima višestruku ulogu. Ona štiti Zemlju od manjih meteora tako što uzrokuje njihovo potpuno sagorevanje pre nego što stignu do njene površine. Azot i kiseonik u atmosferi, udruženi sa Zemljinim magnetskim poljem, štite površinu od radijacije koja bi bila pogubna za život. Zemljina atmosfera nema tačno određenu granicu, jer polako postaje sve ređa i bleđa prema svemiru.
+
+Čini je više slojeva, a proteže se više stotina kilometara iznad površine. Sastavljena je od 78% azota, 21% kiseonika, 0,93 % argona, 0,03% ugljen-dioksida, nešto vodene pare i drugih gasova.[27]
+
+Slojevi atmosfere:
+
+    Troposfera (do visine od oko 12 km mnv) najniži je i najgušći deo atmosfere u kojem se događaju sve vremenske pojave. U ovom sloju temperatura opada s visinom. Sadrži velike količine vodene pare.
+    Stratosfera (do oko 50 km mnv) sadrži ozon koji nas štiti od štetnog zračenja iz svemira. Temperatura je u nižim slojevima stratosfere stalna, a u višim slojevima raste. Vetrovi koji duvaju u stratosferi dostižu brzine od nekoliko stotina km/č.
+    Mezosfera (do oko 85 km mnv) sloj je u kom dolazi do naglog pada temperature.
+    Jonosfera ili termosfera (do oko 500 km mnv) sadrži jone, naelektrisane čestice. U ovom sloju se pod uticajem sunčevog vetra stvara polarna svetlost. Temperatura raste, sve do visine 400 km.
+    Egzosfera je prelazno područje prema vakuumu. Ovo je sloj s vrlo razređenim gasom, prostire se iznad 500 km visine.
+
+Prelazna područja između slojeva atmosfere su tropopauza, stratopauza i mezopauza.
+Klima
+Kumulus mediocris oblaci
+Dijagram klime za Beograd. Prikazane su prosečne mesečne temperature i prosečna mesečna količina padavina.
+
+Najniži sloj atmosfere je troposfera. Energija Sunca zagreva ovaj sloj i Zemljinu površinu izazivajući ekspanziju (širenje) vazduha. Ovaj manje gusti vazduh se potom podiže, i zamenjuje sa hladnijim, veće gustine. Kao rezultat javlja se atmosferska cirkulacija (strujanje) koja omogućava klimu i vremenske prilike redistribucijom toplote.
+
+Osnovni atmosferski cirkulacioni opsezi se sastoje od vetrova u ekvatorijalnom pojasu ispod 30° geografske širine zapadno između 30° i 60° geografske širine. Ipak, okeanske struje su takođe značajni faktori u određivanju klime, naročito termohalinska struja koja distribuira toplu energiju ekvatorijalnih okeana ka polarnim regionima.
+
+Vodena para koja se generiše preko površinske evaporacije (isparavanje) transportuje se kružnim putanjama u atmosferu. Kada atmosferski uslovi dozvole podizanje toplog, vlažnog vazduha, ova se voda kondenzuje i vraća na površinu putem padavina. Većina vode se potom transportuje na niže visine putem rečnih sistema, sve do okeana ili jezera. Ovaj vodeni ciklus je mehanizam od vitalnog značaja za opstanak života na kopnu, i predstavlja primarni faktor u procesima erozije površine tokom dugih geoloških perioda. Količina padavina varira zavisno od područja od nekoliko metara vode za godinu dana do manje od milimetra za godinu dana. Atmosferska cirkulacija, topološki oblici i razlike temperature direktno utiču na količinu prosečnih padavina u nekom regionu.
+Biosfera
+Glavni članak: Biosfera
+
+Koliko je do sada poznato, Zemlja je jedino mesto na kojem postoji život. Životni oblici čine biosferu planete. Smatra se da je razvoj biosfere na Zemlji započeo pre otprilike 3,5 milijardi godina. Životne zajednice (biomi) nastanjuju gotovo celu površinu Zemlje, od malobrojnih na arktičkim i antarktičkim područjima, do najbrojnijih biodiverziteta u području oko ekvatora.
+
+Funkcionisanje biosfere ogleda se u uzajamnoj povezanosti njenih različitih ekosistema na principima kruženja materije i jednosmernom proticanju energije u globalnim razmerama. Osnovne elemente (C, O, H, N i dr.) organizmi ugrađuju u organska jedinjenja u svom telu. Organska materija prolazi kroz lance ishrane i na kraju se razlaže i mineralizuje. Tako se osnovni elementi vraćaju u spoljašnju sredinu, odakle ponovo mogu da se iskoriste. Ovaj put osnovnih elemenata predstavlja biogeohemijske cikluse materije na Zemlji, koji se mogu utvrditi za svaki element posebno.
+Hidrosfera
+Glavni članak: Hidrosfera
+Zemlja noću
+
+Zemlja je jedina planeta u Sunčevom sistemu na čijoj površini ima vode u tečnom stanju. Voda pokriva 71 % Zemljine površine. Najveći deo vodenih površina su morske (97 %), a manji deo čini slatka voda (3 %). Tekuća voda postoji na površini Zemlje zahvaljujući spoju odgovarajućih pogodnih uslova: orbite oko Sunca, vulkanizma, gravitacije, efekta staklene bašte, magnetskog polja i atmosfere bogate kiseonikom.
+
+Zemljina orbita nalazi se izvan područja u kojem je dovoljno toplo da bi se održala tekuća voda. Bez malog efekta staklenika koji zadržava toplotu u atmosferi, voda na Zemlji bi se zaledila. Paleontološki nalazi upućuju na razdoblje u Zemljinoj istoriji u kojem je privremeno nestao efekat staklenika, a površina se smrznula tokom 10 do 100 miliona godina.
+
+Na planetama poput Venere vodena para se pod uticajem ultraljubičastog zračenja razlaže na vodonik i kiseonik, vodonik se jonizuje i (delovanjem sunčevog vetra) odlazi iz spoljnih slojeva atmosfere. Oslobođeni kiseonik se veže u mineralne spojeve na površini. Ovaj proces je spor, ali se smatra da je glavni razlog zbog koga na Veneri nema vode. Na Zemlji ozonski omotač upija većinu ultraljubičastog zračenja u višim slojevima atmosfere i smanjuje opisani proces. Osim toga, magnetosfera štiti jonosferu od štetnog uticaja sunčevog vetra.
+
+Vulkanski procesi stalno izbacuju vodenu paru iz unutrašnjosti. Procenjeno je da minerali u Zemljinom omotaču sadrže 10 puta više vode nego što je ima u okeanima, iako većina nje nikada neće biti oslobođena.
+Unutrašnja građa Zemlje
+Glavni članak: Građa Zemlje
+Presek Zemlje i atmosfere
+
+Slično kao i kod drugih terestričkih planeta, unutrašnjost Zemlje je podeljena u više slojeva:
+
+    spoljašnja kruta kora
+        kontinentalna
+        okeanska
+    Zemljin omotač (mantl ili plašt)
+        gornji deo omotača
+        donji deo omotača
+    jezgro
+        spoljašnje jezgro
+        unutrašnje jezgro (barisfera)
+
+Gornji omotač zajedno sa korom naziva se litosfera.
+Kora
+Glavni članak: Zemljina kora
+
+Kora je spoljašnji sloj Zemlje, dubine 5 do 35 km. Sastavljena je od kontinentalne i okeanske kore. Na granici kore i omotača nalazi se Moho-sloj, poznat i kao Mohorovičićev diskontinuitet. Materijal iz unutrašnjosti stalno izlazi na površinu kroz vulkanske otvore i pukotine na okeanskom dnu. Većina Zemljine površine je mlađa od 100 miliona godina, dok su najstariji delovi kore stari 4,4 milijarde godina.
+Hemijski sastav zemljine kore
+
+Zemljina kora je po hemijskom sastavu sačinjena najvećim delom od sledećih elemenata:
+Hemijski sastav Zemljine kore‍
+				
+kiseonik 	
+  
+	0 	47 %
+silicijum 	
+  
+	0 	28 %
+aluminijum 	
+  
+	0 	8 %
+gvožđe 	
+  
+	0 	4,5 %
+kalcijum 	
+  
+	0 	3,5 %
+natrijum 	
+  
+	0 	2,5 %
+kalijum 	
+  
+	0 	2,5 %
+magnezijum 	
+  
+	0 	2,2 %
+Petrološki sastav zemljine kore
+Glavni članak: Stene
+
+Zemljina kora je pretežno sačinjena od lako topljivih stena, male gustine; Kontinentalna kora pretežno sadrži granit dok je okeanska kora uglavnom sačinjena od bazalta i gabra.
+
+    Magmatske stene su najrasprostranjenije i stene na Zemlji. Nastaju očvršćavanjem pod pritiskom rastopljene mase — magme, različitog hemijskog sastava, pri njenom prodoru iz omotača jezgra kroz Zemljinu koru. Magmatske stene mogu nastati u dubinama Zemljine kore, ali i na samoj površini Zemlje. Imaju veliku tvrdoću.
+    Sedimentne stene nastaju neposredno na površini Zemlje taloženjem i zbijanjem ostataka živog sveta (krečnjak, kreda, kameni ugalj) i čestica drugih raspadnutih stena (glina, peščar). Sedimentnim stenama je svojstvena slojevitost.
+    Metamorfne stene nastaju od magmatskih i sedimentnih stena, pod uticajem visokih temperatura i pritisaka u unutrašnjosti Zemlje. Na primer, mermer je nastao metamorfozom krečnjaka.
+
+Zemljin omotač (mantl)
+
+Ispod kore, do dubine 2900 km nalazi se omotač. Sastoji se od slojeva bogatih gvožđem i magnezijumom, odnosno od stena veće gustine nego što su stene koje većim delom grade koru. S dubinom raste i pritisak.
+
+Gornji omotač, koji se nalazi između astenosfere i Zemljine kore sastoji se od ultrabazičnih stena — peridotita i eklogita. Astenosfera je plastična i debela nekoliko stotina kilometara a karakteristična je po termodinamičkim procesima koji se odvijaju u njoj - tzv. konvekcijska strujanja materijala mantla.
+
+Donji omotač je debljine oko 1900 km a geofizičkim merenjima utvrđene razlike u brzini prostiranja seizmičkih talasa ukazuju na njegovu heterogenost, odnosno da ima raznovrstan materijalni sastav.
+Jezgro
+
+Kako je prosečna gustina Zemlje 5515 kg/m³, a gustina materijala na površini samo oko 3000 kg/m³, očigledno se gušći materijal mora nalaziti u jezgru. U vreme nastajanja Zemlje, pre 4,5 milijardi godina Zemlja je većinom bila rastopljena. U procesu koji nazivamo diferencijacija teži elementi su potonuli prema središtu, a lakši su se skupili uz površinu. Zato je jezgro sastavljeno uglavnom od gvožđa (80 %), nikla i silicijuma.
+
+Jezgro delimo na dva dela, unutrašnje kruto jezgro poluprečnika oko 1.250 km i spoljašnje (smatra se da je tečno) jezgro koje se pruža do poluprečnika od 3.500 km. Smatra se da je unutrašnje jezgro u kristalnom obliku, a spoljašnje sastavljeno od tečnog gvožđa i nikla. Takođe, smatra se da strujanje ovog rastopljenog metala (i mešanje koje nastaje zbog Zemljine rotacije) stvara zemljino magnetsko polje. O unutrašnjosti Zemlje mnogo se saznalo proučavanjem kretanja seizmičkih talasa zašta je zaslužna geofizika.
+Litosferne ploče
+Glavni članak: Litosferna ploča
+Zemljine litosferne ploče.
+
+Po teoriji tektonike ploča, koja je trenutno priznata od gotovo svih naučnika koji se bave izučavanjem ove materije, omotač najbliži površini Zemlje se sastoji od dva sloja: litosfere, uključujući i koru, i očvrsnuti najviši deo Zemljinog omotača. Ispod litosfere se nalazi astenosfera, koja predstavlja unutrašnji deo mantla. Astenosfera se ponaša kao superzagrejana i ekstremno viskozna tečnost.[traži se izvor]
+
+Litosfera u suštini pluta po astenosferi i razlomljena je na litosferne ploče. Postoje dve vrste ploča: okeanske (npr. Tihookeanska ploča) i kontinentalne ploče. Ove ploče su segmenti koji se kreću relativno jedna u odnosu na drugu i pri tome mogu formirati neku od sledećih granica litosfernih ploča: konvergentnu, divergentnu i transformnu.[28]
+
+Najveće litosferne ploče su:[traži se izvor]
+Ime ploče 	Područje 	Pokriva
+106 km2 	106 mi2
+Afrička ploča 	61,3 	23,7 	Afrika
+Antarktička ploča 	60,9 	23,5 	Antarktik
+Australijska ploča 	47,2 	18,2 	Australija
+Evroazijska ploča 	67,8 	26,2 	Azija i Evropa
+Severnoamerička ploča 	75,9 	29,3 	Severna Amerika i severoistočni Sibir
+Južnoamerička ploča 	43,6 	16,8 	Južna Amerika
+Tihookeanska ploča 	103,3 	39,9 	Veliki tihi okean
+Zemljina površina
+
+Oblici zemljine površine variraju, razlikuju se, od mesta do mesta. Oko 70,8 % zemljine površine nalazi se pod vodom, uključujući i veći deo kontinentalnog šelfa. Podvodna površina ima različite oblike, planinske, uključujući i globalni šireći srednjeokeanski grebenski sistem, kao i podmorske vulkane, okeanske rovove, podmorske kanjone, okeanske platoe i abisalne ravni. Preostalih 29,2 % zemljine površine koji nisu pokriveni vodom čine planine, pustinje, ravnice, platoi, i drugi geomorfološki oblici.
+
+Površina planete je od nastanka Zemlje tokom geološkog vremena do današnjih dana u procesu stalnog preoblikovanja i to pod uticajem tektonskih pokreta i erozije. Oblici reljefa nastali i menjani uticajem tektonike ploča stalno su izloženi uticaju vremenskih prilika i to padavinama, temperaturnim promenama, i hemijskim uticajima. Glacijacija, erozija obala (marinska erozija), nastanak koralnih grebena i udari velikih meteora[29] takođe utiču na promenu reljefa.
+Orbita i rotacija
+Animacija sa prikazom rotacije Zemlje
+
+Slično Marsu, relativno mereno u odnosu na zvezde, Zemlji je potrebno u proseku 23 časa, 56 minuta i 4,091 sekundi za rotaciju oko ose (rotacioni period ili zvezdani dan) koja spaja severni i južni pol.
+
+Zemlja izvrši jednu revoluciju, ili jedan obilazak orbitom oko Sunca za 365,2564 glavnih zvezdanih dana a na prosečnoj udaljenosti od oko 150 miliona kilometara od Sunca. Smer revolucije Zemlje oko Sunca je suprotan smeru kazaljke na satu gledano od severa na dole, odnosno, smer kretanja Zemlje oko Sunca odgovara smeru rotacije Sunca oko svoje ose.
+
+Pomeraj od 23° 26', koji se još naziva inklinacija, Zemljine ose uzrokuje veće zagrevanje i duže trajanje dana na jednoj ili drugoj hemisferi tokom godine što izaziva ciklične smene godišnjih doba.
+
+Teorija Milutina Milankovića, Milankovićevi ciklusi, pokazala je i značajnije uticaje ljuljanja Zemljine ose, tačnije uticaja promene položaja ose rotacije na klimu. Svojim proračunima on je utvrdio međusobnu povezanost precesije, odnosno revoluciju Zemljine ose rotacije i pojavu ledenih doba.
+Zemljino magnetsko polje
+Magnetosfera štiti površinu Zemlje od čestica solarnog vetra koje su pod nabojem. (Slika nije u razmeri)
+
+Zemljino magnetsko polje se može predstaviti kao magnetni dipol, sa dva magnetska pola. Južni magnetski pol se nalazi na 73° severne geografske širine i 100° zapadne geografske dužine, na ostrvu Princa od Velsa, dok se severni magnetski pol nalazi na 70° južne geografske širine i 148° istočne geografske dužine, na Antarktiku - južno od Novog Zelanda. Osa magnetskih polova je nagnuta u odnosu na osu geografskih polova za oko 11°.
+
+Po dinamo teoriji, geomagnetsko polje se generiše unutar istopljenog jezgra gde toplota stvara konvekcijska kretanja materijala koji generišu električnu struju. Konvekcijska kretanja u jezgru su haotične prirode, i periodično se javlja promena smera kretanja. Ovo uzrokuje promenu polariteta magnetskog polja.
+
+Zemljino magnetsko polje deluje i na okolni prostor. Veliki region oblika suze nazvan magnetosfera nastao je interakcijom Zemljinog polja i solarnih vetrova. Na rastojanju od oko 65.000 km spolja prema Suncu, pritisak solarnog vetra je balansiran zahvaljujući geomagnetskom polju. U pitanju je prepreka solarnom vetru, i toku čestica pod nabojem, ili plazmi, koji se lučno savijaju oko Zemlje. Polarna svetlost nastaje interakcijom solarnog vetra i magnetosfere.
+
+Teoretski gledano, tokom perioda promene polariteta magnetskog polja, što se dešavalo više puta tokom Zemljine istorije, u vremenu od prestanka dejstva jednog do početka dejstva drugog magnetskog polja Zemlja nije imala magnetsko polje. Ukoliko bi to bilo tačno, Zemlja je u tom vremenu bila nezaštićena od uticaja solarnih vetrova, i naelektrisanih čestica, koje bi inače bile skrenute ili sagorene, a koje su tada mogle dopreti do površine Zemlje. Ovo je moglo izazvati, usled pojave radijacije, mutaciju živog sveta, pojavu steriliteta i izumiranje pojedinih vrsta. Ova teorija nije dokazana ali ukazuje na značaj Zemljinog magnetnog polja kao prirodnog štita od spoljašnjih uticaja na život na Zemlji.[traži se izvor]
+Gravitacija
+
+Zemljino gravitaciono polje uzrokuje da telo koje se nađe slobodno u vazduhu počinje da se kreće ravnomerno ubrzano ka centru zemlje. Ubrzanje koje se saopštava ovom telu naziva se gravitaciono ubrzanje. Utvrđeno je geofizičkim merenjima da gravitaciono polje nije isto na različitim mestima na Zemljinoj površini. Razlika gravitacionog ubrzanja koja se javlja pri merenju na različitim mestima na Zemlji javlja se iz tri razloga:
+
+    Zavisi od nadmorske visine (altitude) - ubrzanje je obrnuto proporcionalno kvadratu rastojanja od centra Zemlje do mesta merenja;
+    Zemlja nije oblika lopte - Zemlja je nepravilnog oblika sa spljoštenim delom na polovima gde je i gravitaciono polje najveće;
+    Zemlja rotira - pri rotaciji Zemlje javlja se centrifugalna sila koja je na ekvatoru najveća te je i gravitaciona sila tu najmanja.
+
+Iako je centrifugalna sila koja se javlja na ekvatoru najvećeg intenziteta ona je i dalje oko 300 puta manja od sile privlačenja.
+
+Gravitaciono ubrzanje, na nekoj tački na fizičkoj površi Zemlje, može biti izračunato na sledeći način:
+
+    g ϕ = 9 , 780327 [ ( 1 + 0 , 0053024 sin 2 ⁡ ϕ − 0 , 0000058 sin 2 ⁡ 2 ϕ ) − 3 , 086 × 10 − 6 h ]   m / s 2 {\displaystyle g_{\phi }=9,780327\left[\left(1+0,0053024\sin ^{2}\phi -0,0000058\sin ^{2}2\phi \right)-3,086\times 10^{-6}h\right]\ m/s^{2}} g_{\phi}=9,780 327 \left[ \left(1+0,0053024\sin^2 \phi-0,0000058\sin^2 2\phi \right) - 3,086 \times 10^{-6}h \right] \ m/s^2 
+
+    gde je:
+
+        ϕ {\displaystyle \phi } \phi — geografska širina
+        h {\displaystyle h} h — visina u metrima
+
+U visini nivoa mora, h = 0 m:
+
+    na ekvatoru ( ϕ {\displaystyle \phi } \phi = 0°): g = 9,7803 m/s2
+    za geografsku širinu ( ϕ {\displaystyle \phi } \phi = 45°): g = 9,8063 m/s2
+    na polovima ( ϕ {\displaystyle \phi } \phi = 90°): g = 9,8322 m/s2
+
+Gravitaciona sila zadržava Mesec (prirodni satelit) u orbiti oko Zemlje. Povratno Mesec utiče na život na Zemlji utičući na pojave plime i oseke.
+Prirodni resursi i korišćenje zemljišta
+
+Na Zemlji postoje resursi koji se eksploatišu od strane ljudi za različite namene. Neki od njih su neobnovljivi resursi, kao što su fosilna goriva, koja je nemoguće obnoviti jer se ona stvaraju tokom dugog geološkog vremena od ostataka biljaka i životinja.
+
+Velika ležišta fosilnih goriva se nalaze u Zemljinoj kori, a sastoje se od uglja, petroleja, prirodnog gasa i metana. Ova ležišta koriste ljudi, za proizvodnju energije i kao sirovinu u hemijskoj proizvodnji. Mineralna rudna tela su takođe nastala u Zemljinoj kori tokom procesa geneze rude, koja je rezultovala od erozije i tektonike ploča.[30] Ova rudna tela čine mesta sa najvećom koncentracijom mnogih metala i drugih korisnih hemijskih elemenata.
+
+Zemljina biosfera proizvodi mnoge korisne biološke produkte za ljude, uključujući (a ne samo njih) hranu, drvo, lekove, kiseonik, i reciklažu (preradu) mnogih organskih otpada. Kopneni ekosistemi zavise od površinskog tla i sveže vode, a okeanski ekosistemi zavise od rastvorenih hranljivih materija koji su dospeli u njih spiranjem sa kopna.[31] Ljudi takođe žive na kopnu koristeći građevinske materijale za izgradnju skloništa. Podaci iz 1993. godine, pokazuju upotrebu zemljišta od strane ljudi:
+Upotreba zemljišta 	Procenat
+Obradiva zemlja 	[32] 13,13
+Stalni usevi 	[32] 4,71
+Stalni pašnjaci 	26
+Šume i prašume 	32
+Urbana područja 	1,5
+Ostalo 	30
+
+Procenjena količina zemljišta koje se navodnjava 1993. godine bila je 2.481.250 km².[32]
+Prirodne katastrofe
+Glavni članak: Prirodne katastrofe
+
+Velika područja su podložna izrazito lošim vremenskim uslovima kao što su tropski cikloni, uragani, ili tajfuni koji upravljaju životima u tim oblastima. Mnoga područja su podložna čestim zemljotresima, klizištima, cunamijima, vulkanskim erupcijama, tornadima, vrtloženju, snežnim burama, poplavama, sušama, i drugim nesrećama i katastrofama.
+
+Mnoga ograničena područja predstavljaju zagađena područja zatrovanog vazduha i vode, sa kiselim kišama i toksičnim materijama, nedostatkom vegetacije, gubitkom divljih životinja, izumrlim vrstama, degradiranim tlom, ispošćenom zemljom, erozijom, i najezdom štetočina. Ljudske aktivnosti utiču i na dugoročnu promenu klime i to najviše industrijskom emisijom ugljendioksida. Očekivane promene usled ovoga su širenje ozonske rupe, otapanje lednika na Arktiku, veće varijacije temperatura, značajne promene klimatskih uslova i globalni porast nivoa mora.[33]
+Reference

@@ -1,0 +1,12 @@
+Zajednicka nomenklatura:
+
+*-enc: Vezbe koje podrazumevaju primenu neke sifre na ulazni podatak
+i stampanje cyphertexta.
+
+*-dec: Vezbe koje podrazumevaju primenu kljuca ze dekodiranje i
+stampanje plaintext-a
+
+*-can: CryptoANalisys, vezbe koje podrazumevaju automatsko trazenje kljuca
+za desifrovanje na osnovu samog cyphertexta i neke statisticke raspodele
+
+*-etc: Sve ostalo (Et Cetera)
