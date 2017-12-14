@@ -59,6 +59,13 @@ string readfile(string path) {
 	}
 }
 
+string str_to_upper(string s) {
+	for (char& x : s) {
+		x = toupper(x);
+	}
+	return s;
+}
+
 string cezarova_sifra(string s, int k) {
 	for (char& x : s) {
 		x = primeni(x, (kod(x) + k) % 26);
@@ -234,3 +241,126 @@ double coincidence_index_cross(string a, string b) {
 	return r / a.size() / b.size();
 }
 
+vector<vector<int>> playfair_matrix(string key) {
+	vector<vector<int>> a(5, vector<int>(5, -1));
+	vector<bool> used(26, false);
+	int i = 0, j = 0;
+
+	auto m_append = [&a, &used, &i, &j](char x) {
+		int y = kod(x);
+		if (y == kod('W')) {
+			y = kod('V');
+		}
+		if (!used[y]) {
+			used[y] = true;
+			a[i][j] = y;
+			j++;
+			if (j == 5) {
+				j = 0;
+				i++;
+			}
+		}
+	};
+
+	for (char x : key) {
+		m_append(x);
+	}
+
+	for (char x='a'; x<='z'; x++) {
+		m_append(x);
+	}
+
+	return a;
+}
+
+string playfair_preprocess(string s) {
+	// zameni W -> V
+	for (char& x : s) {
+		if (kod(x) == kod('W')) {
+			x = 'V';
+		}
+	}
+
+	string b;
+	for (char slovo : s) {
+		if (b.size() && kod(b.back()) == kod(slovo)) {
+			if (kod(slovo) == kod('X')) {
+				b += 'Q';
+			} else {
+				b += 'X';
+			}
+		}
+		b += slovo;
+	}
+
+	if (b.size() % 2) {
+		if (kod(b.back()) == kod('X')) {
+			b += 'Q';
+		} else {
+			b += 'X';
+		}
+	}
+
+	return b;
+}
+
+string playfair_digram(vector<vector<int>>& mat, string a, int smer) {
+	int i1=-1, j1=-1, i2=-1, j2=-1;
+
+	for (int i=0; i<5; i++) {
+		for (int j=0; j<5; j++) {
+			if (mat[i][j] == kod(a[0])) {
+				i1 = i;
+				j1 = j;
+			}
+			if (mat[i][j] == kod(a[1])) {
+				i2 = i;
+				j2 = j;
+			}
+		}
+	}
+
+	// sanity checks
+	if (i1 == -1 || j2 == -1) {
+		return a;
+	}
+
+	if (i1 == i2 && j1 == j2) {
+		return a;
+	}
+
+	if (i1 == i2) {
+		// isti red, shiftuj kolone
+		j1 = (j1 + smer + 5) % 5;
+		j2 = (j2 + smer + 5) % 5;
+	} else if (j1 == j2) {
+		// ista kolona, shiftuj redove
+		i1 = (i1 + smer + 5) % 5;
+		i2 = (i2 + smer + 5) % 5;
+	} else {
+		// nije ni jedno ni drugo, swapuj kolone
+		int t = j2;
+		j2 = j1;
+		j1 = t;
+	}
+
+	a[0] = primeni(a[0], mat[i1][j1]);
+	a[1] = primeni(a[1], mat[i2][j2]);
+
+	return a;
+}
+
+string playfair_sifra(string s, string key) {
+	s = playfair_preprocess(strip(s));
+	key = strip(key);
+
+	auto mat = playfair_matrix(key);
+
+	for (size_t i=0; i<s.size(); i+=2) {
+		string q = playfair_digram(mat, s.substr(i, 2), 1);
+		s[i] = q[0];
+		s[i+1] = q[1];
+	}
+
+	return s;
+}

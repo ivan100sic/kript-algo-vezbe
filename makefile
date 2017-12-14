@@ -32,6 +32,9 @@ execs += vizener-coinc-etc
 objects += vizener-can.o
 execs += vizener-can
 
+objects += playfair-enc.o
+execs += playfair-enc
+
 common.o: makefile
 	$(CC) -c common.cpp -o common.o
 
@@ -45,3 +48,4 @@ clean: makefile
 	rm -f common.o $(objects) $(execs)
 
 all: common.o $(execs)
+

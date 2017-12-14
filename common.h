@@ -29,6 +29,11 @@ char primeni(char x, int k);
 string readfile(string path);
 
 /*
+	Konvertuje ceo string u uppercase.
+*/
+string str_to_upper(string s);
+
+/*
 	Primenjuje Cezarovu sifru sa pomakom k.
 */
 string cezarova_sifra(string s, int k);
@@ -86,6 +91,28 @@ double coincidence_index_avg(string s, int k);
 int kasiski_test(string s);
 
 /*
-	Vraca medjusobni indeks koincidencije izmedju dva stringa
+	Vraca medjusobni indeks koincidencije izmedju dva stringa.
 */
 double coincidence_index_cross(string a, string b);
+
+/*
+	Vraca matricu za Playfair sifru generisanu datim kljucem.
+*/
+vector<vector<int>> playfair_matrix(string key);
+
+/*
+	Od datog stringa vraca string koji je prilagodjen za upotrebu kod
+	Playfair sifre.
+*/
+string playfair_preprocess(string s);
+
+/*
+	Kodira jedan Playfair digram. Ako ne uspe vraca dati string.
+	Ne preporucuje se zvati direktno ovu funkciju.
+*/
+string playfair_digram(vector<vector<int>>& mat, string a, int smer);
+
+/*
+	Sifrira dati string datim kljucem pomocu Playfair sifre.
+*/
+string playfair_sifra(string s, string key);
