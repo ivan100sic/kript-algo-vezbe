@@ -29,6 +29,9 @@ execs += vizener-trigram-etc
 objects += vizener-coinc-etc.o
 execs += vizener-coinc-etc
 
+objects += vizener-can.o
+execs += vizener-can
+
 common.o: makefile
 	$(CC) -c common.cpp -o common.o
 
@@ -40,3 +43,5 @@ $(execs): %: %.o common.o makefile
 
 clean: makefile
 	rm -f common.o $(objects) $(execs)
+
+all: common.o $(execs)
