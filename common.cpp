@@ -364,3 +364,17 @@ string playfair_sifra(string s, string key) {
 
 	return s;
 }
+
+string playfair_desifruj(string s, string key) {
+	key = strip(key);
+
+	auto mat = playfair_matrix(key);
+
+	for (size_t i=0; i<s.size(); i+=2) {
+		string q = playfair_digram(mat, s.substr(i, 2), -1);
+		s[i] = q[0];
+		s[i+1] = q[1];
+	}
+
+	return s;
+}

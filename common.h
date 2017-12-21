@@ -116,3 +116,8 @@ string playfair_digram(vector<vector<int>>& mat, string a, int smer);
 	Sifrira dati string datim kljucem pomocu Playfair sifre.
 */
 string playfair_sifra(string s, string key);
+
+/*
+	Desifruje string koji je sifriran kljucem key
+*/
+string playfair_desifruj(string s, string key);

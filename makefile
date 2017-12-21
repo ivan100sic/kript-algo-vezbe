@@ -35,6 +35,9 @@ execs += vizener-can
 objects += playfair-enc.o
 execs += playfair-enc
 
+objects += playfair-perm-etc.o
+execs += playfair-perm-etc
+
 common.o: makefile
 	$(CC) -c common.cpp -o common.o
 
