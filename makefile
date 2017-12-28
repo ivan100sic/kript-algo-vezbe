@@ -41,6 +41,9 @@ execs += playfair-perm-etc
 objects += hil-enc.o
 execs += hil-enc
 
+objects += hil-dec.o
+execs += hil-dec
+
 common.o: common.cpp makefile
 	$(CC) -c common.cpp -o common.o
 

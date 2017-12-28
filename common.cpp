@@ -410,3 +410,25 @@ int determinanta_26(vector<vector<int>> mat) {
 
 	return r % 26;
 }
+
+vector<vector<int>> mat_inverz_26(vector<vector<int>> mat) {
+	vector<vector<int>> b = mat;
+	int n = mat.size();
+
+	if (n == 1) {
+		b[0][0] = inv26(mat[0][0]);
+		return b;
+	}
+
+	int dinv = inv26(determinanta_26(mat));
+
+	for (int i=0; i<n; i++) {
+		for (int j=0; j<n; j++) {
+			b[i][j] = ((i+j) % 2 ? 25 : 1) * 
+				determinanta_26(mminor(mat, j, i)) *
+				dinv % 26;
+		}
+	}
+
+	return b;
+}

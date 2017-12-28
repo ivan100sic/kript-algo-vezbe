@@ -131,3 +131,10 @@ vector<vector<int>> mminor(const vector<vector<int>>& mat, int r, int c);
 	Nalazi determinantu po modulu 26
 */
 int determinanta_26(vector<vector<int>> mat);
+
+/*
+	Nalazi inverz matrice po modulu 26
+*/
+vector<vector<int>> mat_inverz_26(vector<vector<int>> mat);
+
+
