@@ -21,20 +21,17 @@ int kod(char x) {
 }
 
 char primeni(char x, int k) {
-	if (kod(x) == -1) {
-		return x;
-	}
 	if ('a' <= x && x <= 'z') {
 		return 'a' + k;
 	}
 	if ('A' <= x && x <= 'Z') {
 		return 'A' + k;
 	}
+	return x;
 }
 
 string readfile(string path) {
 	if (path == "-") {
-		char x;
 		string r;
 		while (1) {
 			int z = cin.get();
@@ -46,7 +43,6 @@ string readfile(string path) {
 		return r;
 	} else {
 		ifstream f(path, ios::binary);
-		char x;
 		string r;
 		while (1) {
 			int z = f.get();
@@ -377,4 +373,40 @@ string playfair_desifruj(string s, string key) {
 	}
 
 	return s;
+}
+
+vector<vector<int>> mminor(const vector<vector<int>>& mat, int r, int c) {
+	int n = mat.size();
+
+	vector<vector<int>> rez;
+
+	for (int i=0; i<n; i++) {
+		if (i != r) {
+			vector<int> red;
+			for (int j=0; j<n; j++) {
+				if (j != c) {
+					red.push_back(mat[i][j]);
+				}
+			}
+			rez.push_back(red);
+		}
+	}
+
+	return rez;
+}
+
+int determinanta_26(vector<vector<int>> mat) {
+	int n = mat.size();
+
+	if (n == 1) {
+		return mat[0][0] % 26;
+	}
+
+	int zn = 1, r = 0;
+	for (int i=0; i<n; i++) {
+		r += determinanta_26(mminor(mat, 0, i)) * zn * mat[0][i];
+		zn = 26 - zn;
+	}
+
+	return r % 26;
 }

@@ -121,3 +121,13 @@ string playfair_sifra(string s, string key);
 	Desifruje string koji je sifriran kljucem key
 */
 string playfair_desifruj(string s, string key);
+
+/*
+	Nalazi minor matrice na datoj poziciji
+*/
+vector<vector<int>> mminor(const vector<vector<int>>& mat, int r, int c);
+
+/*
+	Nalazi determinantu po modulu 26
+*/
+int determinanta_26(vector<vector<int>> mat);

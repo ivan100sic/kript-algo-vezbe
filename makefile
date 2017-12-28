@@ -1,4 +1,4 @@
-CC = g++ -std=c++14 -O2
+CC = g++ -std=c++14 -O2 -Wall
 objects = 
 execs = 
 
@@ -38,7 +38,10 @@ execs += playfair-enc
 objects += playfair-perm-etc.o
 execs += playfair-perm-etc
 
-common.o: makefile
+objects += hil-enc.o
+execs += hil-enc
+
+common.o: common.cpp makefile
 	$(CC) -c common.cpp -o common.o
 
 $(objects): %.o: %.cpp makefile
