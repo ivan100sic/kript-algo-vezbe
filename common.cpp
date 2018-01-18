@@ -432,3 +432,113 @@ vector<vector<int>> mat_inverz_26(vector<vector<int>> mat) {
 
 	return b;
 }
+
+vector<int> read_permutation(string fn) {
+	ifstream ifs(fn);
+
+	int n;
+	ifs >> n;
+
+	vector<int> p(n);
+	for (int i=0; i<n; i++) {
+		ifs >> p[i];
+		p[i]--;
+	}
+
+	return p;
+}
+
+bool is_permutation(vector<int> p) {
+	vector<int> c(p.size(), 0);
+	for (int x : p) {
+		if (x < 0 || x >= (int)p.size()) {
+			return false;
+		}
+		if (c[x]++) {
+			return false;
+		}
+	}
+	return true;
+}
+
+string transposition_encode(string s, vector<int> p) {
+	int k = p.size();
+	while (s.size() % k) {
+		s += 'X';
+	}
+	int b = s.size() / k;
+
+	string rez = s;
+
+	for (int i=0; i<(int)s.size(); i++) {
+		int r = i / k;
+		int c = i % k;
+
+		int r2 = p[c];
+		int c2 = r;
+
+		rez[r2*b + c2] = s[i];
+	}
+
+	return rez;
+}
+
+vector<string> bigrami() {
+	return {
+		"AK", "AN", "AS", "AT", "AV", "CI",
+		"DA", "ED", "EN", "IC", "IJ", "IN",
+		"IS", "JA", "JE", "KA", "KO", "LI",
+		"NA", "NE", "NI", "NO", "OD", "OJ",
+		"OS", "OV", "PO", "PR", "RA", "RE",
+		"RI", "ST", "TA", "TI", "VA", "ZA"
+	};
+}
+
+// JE JE NA FA VA SU OS IC RE
+
+string transposition_auto(string s) {
+	auto bg_v = bigrami();
+	set<string> bg(bg_v.begin(), bg_v.end());
+
+	// za svaku mogucu duzinu kljuca
+	for (int k=2; k < (int)s.size(); k++) {
+		// ako deli
+		if (s.size() % k == 0) {
+			// napravimo kolone
+			vector<string> v(k);
+
+			for (int i=0; i < (int)s.size(); i++) {
+				v[i / (s.size() / k)] += s[i];
+			}
+
+			// napravimo matricu spajanja
+
+			vector<vector<int>> mat(k, vector<int>(k, 0));
+
+			for (int i=0; i<k; i++) {
+				for (int j=0; j<k; j++) {
+					if (i == j) {
+						continue;
+					}
+
+					for (int f=0; f < (int)s.size()/k; f++) {
+						mat[i][j] += bg.count(string() + v[i][f] + v[j][f]);
+					}
+				}
+			}
+
+			cerr << "k " << k << '\n';
+			for (string s : v) {
+				cerr << s << '\n';
+			}
+			for (int i=0; i<k; i++) {
+				for (int j=0; j<k; j++) {
+					cerr << mat[i][j] << ' ';
+				}
+				cerr << '\n';
+			}
+		}
+	}
+
+	return "";
+}

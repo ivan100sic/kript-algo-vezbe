@@ -44,6 +44,12 @@ execs += hil-enc
 objects += hil-dec.o
 execs += hil-dec
 
+objects += transp-enc.o
+execs += transp-enc
+
+objects += transp-can.o
+execs += transp-can
+
 common.o: common.cpp makefile
 	$(CC) -c common.cpp -o common.o
 

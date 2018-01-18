@@ -137,4 +137,27 @@ int determinanta_26(vector<vector<int>> mat);
 */
 vector<vector<int>> mat_inverz_26(vector<vector<int>> mat);
 
+/*
+	Cita permutaciju iz datog fajla
+*/
+vector<int> read_permutation(string fn);
 
+/*
+	Proverava da li je dati niz permutacija
+*/
+bool is_permutation(vector<int> p);
+
+/*
+	Primenjuje transpozicijsku sifru na dati string sa datim kljucem
+*/
+string transposition_encode(string s, vector<int> p);
+
+/*
+	Vraca skup cestih bigrama u srpskom jeziku
+*/
+vector<string> bigrami();
+
+/*
+	Pokusava da automatski desifruje transpozicijsku sifru
+*/
+string transposition_auto(string s);
