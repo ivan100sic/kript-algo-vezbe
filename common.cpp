@@ -498,7 +498,7 @@ string transposition_auto(string s) {
 	auto bg_v = bigrami();
 	set<string> bg(bg_v.begin(), bg_v.end());
 
-	const int KEY_LEN_LIMIT = 12;
+	const int KEY_LEN_LIMIT = 10;
 
 	int naj_skor = 0;
 	string naj;
@@ -512,7 +512,7 @@ string transposition_auto(string s) {
 	};
 
 	// za svaku mogucu duzinu kljuca
-	for (int k=2; k < (int)s.size() && k < KEY_LEN_LIMIT; k++) {
+	for (int k=2; k < (int)s.size() && k <= KEY_LEN_LIMIT; k++) {
 		// ako deli
 		if (s.size() % k == 0) {
 			// napravimo kolone

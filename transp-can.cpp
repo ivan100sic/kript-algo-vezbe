@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 		return 1;
 	}
 
-	string s = readfile(argv[1]);
+	string s = str_to_upper(readfile(argv[1]));
 
 	cout << transposition_auto(s);
 }
