@@ -494,14 +494,25 @@ vector<string> bigrami() {
 	};
 }
 
-// JE JE NA FA VA SU OS IC RE
-
 string transposition_auto(string s) {
 	auto bg_v = bigrami();
 	set<string> bg(bg_v.begin(), bg_v.end());
 
+	const int KEY_LEN_LIMIT = 12;
+
+	int naj_skor = 0;
+	string naj;
+
+	auto bigram_skor = [&](string s) {
+		int r = 0;
+		for (size_t i=1; i<s.size(); i++) {
+			r += bg.count(s.substr(i-1, 2));
+		}
+		return r;
+	};
+
 	// za svaku mogucu duzinu kljuca
-	for (int k=2; k < (int)s.size(); k++) {
+	for (int k=2; k < (int)s.size() && k < KEY_LEN_LIMIT; k++) {
 		// ako deli
 		if (s.size() % k == 0) {
 			// napravimo kolone
@@ -527,6 +538,10 @@ string transposition_auto(string s) {
 				}
 			}
 
+			// matrica je tu samo za ukras
+
+			/*
+
 			cerr << "k " << k << '\n';
 			for (string s : v) {
 				cerr << s << '\n';
@@ -537,8 +552,34 @@ string transposition_auto(string s) {
 				}
 				cerr << '\n';
 			}
+
+			*/
+
+			vector<int> perm(k);
+
+			iota(perm.begin(), perm.end(), 0);
+
+			do {
+				string tmp;
+
+				for (int i=0; i<(int)s.size() / k; i++) {
+					for (int j=0; j<k; j++) {
+						tmp += v[perm[j]][i];
+					}
+				}
+
+				int tmp_skor = bigram_skor(tmp);
+
+				// cerr << "string: " << tmp << '\n';
+				// cerr << "skor " << k << ' ' << tmp_skor << '\n';
+
+				if (tmp_skor > naj_skor) {
+					naj_skor = tmp_skor;
+					naj = tmp;
+				}
+			} while (next_permutation(perm.begin(), perm.end()));
 		}
 	}
 
-	return "";
+	return naj;
 }
